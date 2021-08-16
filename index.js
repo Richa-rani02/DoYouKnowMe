@@ -76,3 +76,5 @@ function printHighScore(highScore) {
 }
 console.log(chalk.yellowBright("\nHighest Score"));
 printHighScore(highScore);
+console.log(chalk.yellowBright("\nHighest Score"));
+printHighScore(highScore);
