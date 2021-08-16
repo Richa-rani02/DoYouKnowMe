@@ -74,7 +74,6 @@ function printHighScore(highScore) {
     }
 
 }
-console.log(chalk.yellowBright("\nHighest Score"));
-printHighScore(highScore);
+console.log(chalk.yellowBright("Your final score is : " + currScore));
 console.log(chalk.yellowBright("\nHighest Score"));
 printHighScore(highScore);
